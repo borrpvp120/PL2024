@@ -1,6 +1,9 @@
 
 # TPC1: Análise de um dataset
 
+Autor: André Costa A80824
+
+
 ## Executação
 Para a execução do programa, utilize o seguinte comando no terminal:
 
