@@ -1,9 +1,6 @@
 
 # TPC1: Análise de um dataset
 
-Autor: Rui Pedro Fernandes Ribeiro (a100816)
-
-
 ## Executação
 Para a execução do programa, utilize o seguinte comando no terminal:
 
